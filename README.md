@@ -3,7 +3,7 @@ Caixa Eletrônico em Python
 
 Disciplina: [Paradigmas de Programação]
 
-Professor: [Rondinelli]
+Professor: [Rondineli]
 
 Alunos: Valéria Marques e Sther Thallyta
 
